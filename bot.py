@@ -11,7 +11,7 @@ class Session:
     is_active: bool = False
     start_time: int = 0
 
-bot_token = "MTE2MDM3Mjk0ODUzNjkzODUzNw.GbbBb7.Gf9SZgSKu6nsRAW4sgreGBJTHCQSDMMLIRkdSM"  
+bot_token = "Insert Bot Token"  
 channel_id = 1160375592865255565
 max_study_time = 45
 
