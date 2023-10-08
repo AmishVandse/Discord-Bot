@@ -1,4 +1,4 @@
-import requests, json
+
 import datetime
 from discord.ext import commands, tasks
 import discord
@@ -6,7 +6,7 @@ from dataclasses import dataclass
 
 
 
-dataclass
+@dataclass
 class Session:
     is_active: bool = False
     start_time: int = 0
